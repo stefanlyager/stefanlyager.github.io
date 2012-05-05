@@ -29,11 +29,10 @@ strong { font-weight: bold; }
 li { line-height: 24px; border-bottom: 1px solid #ccc; }
 p.enlarge { font-size: 144%; padding-right: 6.5em; line-height: 24px; margin: 0 0 1.5em 0; }
 p.enlarge span { color: #000 }
+p.last { margin-bottom: 0; }
 /* .contact-info { margin-top: 7px; } */
 .contact-info { margin-top: 41px; }
 .first h2 { font-style: italic; }
-.last { border-bottom: 0 }
-
 
 /* //-- section styles -- */
 
@@ -55,7 +54,7 @@ a#pdf:hover { background: #222; }
 .certification h4 { position: absolute; top: 0.35em; right: 0 }
 .certification p { margin: 0.75em 0 1.5em 0; }
 
-.last { border: none; }
+.last { border: none; margin-bottom: 0; border-bottom: 0; padding-bottom: 0;}
 .skills-list {  }
 .skills-list ul { margin: 0; }
 .skills-list li { margin: 3px 0; padding: 3px 0; }
