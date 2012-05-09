@@ -36,6 +36,8 @@ p.last { margin-bottom: 0; }
 
 /* //-- section styles -- */
 
+.portrait { float: right; width: 240px; height: 330px; margin-left: 25px; }
+
 a#pdf { display: block; float: left; background: #666; color: white; padding: 6px 50px 6px 12px; margin-bottom: 6px; text-decoration: none;  }
 a#pdf:hover { background: #222; }
 
