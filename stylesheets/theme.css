@@ -2461,6 +2461,9 @@ hr {
   background-color: #f1f0e9;
   box-shadow: 10px 10px 10px #62615f;
 }
+.portrait {
+  margin-left: 25px;
+}
 .job-title,
 .duration {
   font-size: 16px;
